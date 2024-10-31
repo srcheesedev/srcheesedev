@@ -1,0 +1,7 @@
+Hola, soy Javier Argüeso Soto, ingeniero en informática y un apasionado de la tecnología. Mi trayectoria profesional ha estado marcada por un enfoque en DevOps, donde he podido combinar mi amor por la automatización con mi experiencia en contenedores y Kubernetes.
+
+Comencé mi carrera como becario DevOps en Plexus, donde, desde julio de 2021 hasta febrero de 2022, tuve la oportunidad de aprender y contribuir a proyectos innovadores. Tras mi beca, avancé a ingeniero en el staff de Plexus, desempeñándome en esta posición desde marzo de 2022 hasta marzo de 2023. Durante este tiempo, profundicé mis habilidades en la gestión de pipelines y el mantenimiento de sistemas críticos como GitLab, Nexus y SonarQube.
+
+Actualmente, formo parte del equipo de Onesait en Minsait como ingeniero DevOps. Aquí, sigo trabajando con Kubernetes y he ampliado mis competencias en Google Cloud, además de contar con experiencia previa en Azure y un contacto ligero con AWS. Me apasiona automatizar tareas repetitivas, lo que me lleva a escribir scripts en Bash y Python, optimizando así procesos y mejorando la eficiencia.
+
+Fuera del trabajo, disfruto pasar tiempo con familia y amigos, explorando nuevas tecnologías y relajándome con buena música. Estoy siempre en búsqueda de aprender y crecer, tanto profesional como personalmente.
