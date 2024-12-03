@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Spanish
+## Español
 
 Hola, soy Javier Argüeso Soto, ingeniero en informática y un apasionado de la tecnología. Mi trayectoria profesional ha estado marcada por un enfoque en DevOps, donde he podido combinar mi amor por la automatización con mi experiencia en contenedores y Kubernetes.
 
