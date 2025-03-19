@@ -1,36 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Javier</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sr-cheese&label=Profile%20views&color=0e75b6&style=flat" alt="sr-cheese" /> </p>
 
-<!--
-**JavierArgueso/JavierArgueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sr-cheese&theme=nord" alt="sr-cheese" /></a> </p>
 
-Here are some ideas to get you started:
+<div> <a href="https://www.linkedin.com/in/javier-argueso-soto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/sr-cheese" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/javier-argueso-soto" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="javier-argueso-soto" height="30" width="40" /></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+</p>
 
-## Español
+<h3 align="center">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-cheese&langs_count=8&theme=nord" alt=sr-cheese />
 
-Hola, soy Javier Argüeso Soto, ingeniero en informática y un apasionado de la tecnología. Mi trayectoria profesional ha estado marcada por un enfoque en DevOps, donde he podido combinar mi amor por la automatización con mi experiencia en contenedores y Kubernetes.
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sr-cheese&show_icons=true&locale=en&theme=nord" alt="sr-cheese" /></p>
 
-Comencé mi carrera como becario DevOps en Plexus, donde, desde julio de 2021 hasta febrero de 2022, tuve la oportunidad de aprender y contribuir a proyectos innovadores. Tras mi beca, avancé a ingeniero en el staff de Plexus, desempeñándome en esta posición desde marzo de 2022 hasta marzo de 2023. Durante este tiempo, profundicé mis habilidades en la gestión de pipelines y el mantenimiento de sistemas críticos como GitLab, Nexus y SonarQube.
+<h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/sr-cheese">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-cheese&theme=nord_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr-cheese&theme=nord_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr-cheese&theme=nord_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sr-cheese&theme=nord_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr-cheese&theme=nord_dark" height="180em" />
+</div>
 
-Actualmente, formo parte del equipo de Onesait en Minsait como ingeniero DevOps. Aquí, sigo trabajando con Kubernetes y he ampliado mis competencias en Google Cloud, además de contar con experiencia previa en Azure y un contacto ligero con AWS. Me apasiona automatizar tareas repetitivas, lo que me lleva a escribir scripts en Bash y Python, optimizando así procesos y mejorando la eficiencia.
-
-Fuera del trabajo, disfruto pasar tiempo con familia y amigos, explorando nuevas tecnologías y relajándome con buena música. Estoy siempre en búsqueda de aprender y crecer, tanto profesional como personalmente.
-
-## English
-
-Hello, I’m Javier Argüeso Soto, a computer engineering graduate and a technology enthusiast. My professional journey has been defined by a focus on DevOps, where I’ve been able to combine my love for automation with my experience in containers and Kubernetes.
-
-I started my career as a DevOps intern at Plexus, where, from July 2021 to February 2022, I had the opportunity to learn and contribute to innovative projects. After my internship, I progressed to a staff engineer role at Plexus, working there from March 2022 to March 2023. During this time, I deepened my skills in pipeline management and the maintenance of critical systems like GitLab, Nexus, and SonarQube.
-
-Currently, I’m part of the Onesait team at Minsait as a DevOps engineer. Here, I continue to work with Kubernetes and have expanded my expertise in Google Cloud, along with previous experience in Azure and some exposure to AWS. I’m passionate about automating repetitive tasks, which drives me to write scripts in Bash and Python, thus optimizing processes and enhancing efficiency.
-
-Outside of work, I enjoy spending time with family and friends, exploring new technologies, and relaxing to good music. I’m always seeking to learn and grow, both professionally and personally.
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sr-cheese&theme=nord"/>
