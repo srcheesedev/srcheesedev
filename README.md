@@ -43,7 +43,7 @@ Other:      Bash · Git · Dark humor (expert level)
 
 ## 📬 Contact
 
-:f0ac: test
+[[!globe](./assets/globe-solid.svg)](https://srcheese.dev) test
 
 - 🌐 Website: [srcheese.dev](https://srcheese.dev) (WIP, but epic when done)  
 - 📸 Instagram: [@srcheese.dev](https://www.instagram.com/srcheese.dev)  
