@@ -1,8 +1,3 @@
-<!-- Banner image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srcheesedev/srcheesedev/main/banner.png" alt="srcheese banner" />
-</p>
-
 <h1 align="center">Hi there 👋 I'm Javier — aka <code><a href="https://github.com/srcheesedev">@srcheesedev</a></code></h1>
 
 <p align="center">
