@@ -17,38 +17,74 @@
 
 ---
 
-⚙️ **DevOps Engineer** with a flair for automation, infrastructure, and dark humor.  
-🧀 Running on coffee, metal, and cheese.  
-🎙️ Co-host of *Juevebes*, a tech podcast with a weekly shot of sarcasm (coming soon).
+⚙️ **DevOps Engineer** passionate about open source and automation evangelism.  
+🧀 Building the future one commit at a time — running on coffee, metal, and cheese.  
+📚 Spreading DevOps knowledge with humor and practical tools for everyone.
+
+## 🚀 What I'm Building
+
+> **Mission:** Making DevOps accessible through open source tools 🎯
+
+### 🛠️ Open Source Contributions
+
+- **Python utilities** — Automation scripts and DevOps tools
+- **Rust binaries** — High-performance CLI tools for infrastructure
+- **Bash modules** — Reusable CI/CD components for every platform
+- **Cross-platform CI/CD modules** — Ready-to-use pipelines for GitLab, GitHub Actions, Jenkins & more
+
+**Why?** Because automation shouldn't be a privilege. Quality software comes from consistent, repeatable processes — and everyone deserves access to the tools that make it happen.
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
-- [`podcast - juevebes`](https://github.com/srcheesedev/juevebes)
+*In progress — Building awesome OSS tools for the DevOps community!*
 
 ---
 
 ## 🛠️ Tech I’m into
 
 ```bash
-DevOps:     Docker · Kubernetes · Jenkins · GitLab CI · Azure DevOps
-Cloud:      GCP · AWS (some) · Azure (some)  
-Backend:    Python · FastAPI · Java  
+# Core Stack
+DevOps:     Docker · Kubernetes · Jenkins · GitLab CI · Azure DevOps · GitHub Actions
+Cloud:      GCP · AWS · Azure  
+Languages:  Python · Rust · Bash · Java
 Frontend:   Astro · React · TailwindCSS  
-Other:      Bash · Git · Dark humor (expert level)
+Philosophy: Automate everything · Fail fast · Learn faster · Laugh harder
 ```
 
 ---
 
-## 📬 Contact
+## 💡 DevOps Philosophy
 
-[[!globe](./assets/globe-solid.svg)](https://srcheese.dev) test
+> "If you're doing it manually twice, you're doing it wrong."
 
-- 🌐 Website: [srcheese.dev](https://srcheese.dev) (WIP, but epic when done)  
-- 📸 Instagram: [@srcheese.dev](https://www.instagram.com/srcheese.dev)  
-- 💼 LinkedIn: [Javier Argüeso Soto](https://linkedin.com/in/javier-argueso-soto)  
-- 🐙 GitHub: [@srcheesedev](https://github.com/srcheese) you're already here.  
+I believe in:
 
+- 🔄 **Automation first** — Humans are for creativity, machines for repetition
+- 🛡️ **Security by design** — Build it secure from day one
+- 📊 **Observability** — You can't improve what you can't measure
+- 🚀 **Continuous improvement** — Small steps, big changes
 
-> ⚙️ **DevOps Engineer — aka the guy who “Destroys Every Version On Production Server” and then automates the fix.**
+---
+
+## 📬 Contact & Community
+
+🌐 **Website:** [srcheese.dev](https://srcheese.dev) (WIP, but epic when done)  
+📸 **Instagram:** [@srcheese.dev](https://www.instagram.com/srcheese.dev) — DevOps tips with humor  
+💼 **LinkedIn:** [Javier Argüeso Soto](https://linkedin.com/in/javier-argueso-soto)  
+🐙 **GitHub:** [@srcheesedev](https://github.com/srcheesedev) — You're already here!
+
+---
+
+## 🤝 Let's Connect
+
+Whether you're starting your DevOps journey or you're a seasoned pro, let's share knowledge and build awesome things together.
+
+**Open to:**
+
+- 🔧 Collaboration on OSS projects
+- � Tech talks and community events
+- ☕ Virtual coffee chats about automation
+
+> ⚙️ **Remember:** Every expert was once a beginner. Let's learn, automate, and laugh together! 🧀
