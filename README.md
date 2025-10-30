@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/javier-argueso-soto"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/srcheese.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://srcheese.dev"><img src="https://img.shields.io/badge/Website-srcheese.dev-black?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
+  <a href="https://srcheesedev.github.io/porfolio"><img src="https://img.shields.io/badge/Website-srcheese.dev-black?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
 </p>
 
 ---
@@ -71,7 +71,7 @@ I believe in:
 
 ## 📬 Contact & Community
 
-🌐 **Website:** [srcheese.dev](https://srcheese.dev) (WIP, but epic when done)  
+🌐 **Website:** [srcheese.dev](https://srcheesedev.github.io/porfolio)
 📸 **Instagram:** [@srcheese.dev](https://www.instagram.com/srcheese.dev) — DevOps tips with humor  
 💼 **LinkedIn:** [Javier Argüeso Soto](https://linkedin.com/in/javier-argueso-soto)  
 🐙 **GitHub:** [@srcheesedev](https://github.com/srcheesedev) — You're already here!
