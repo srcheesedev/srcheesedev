@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/srcheesedev/srcheesedev/main/banner.png" alt="srcheese banner" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Javier — aka <code>srcheese</code></h1>
+<h1 align="center">Hi there 👋 I'm Javier — aka <code>@srcheesedev</code></h1>
 
 <p align="center">
   <strong>DevOps Engineer · Keeping Things Running (Mostly)</strong></br>
